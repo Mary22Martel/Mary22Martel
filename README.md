@@ -44,7 +44,7 @@ I am a Systems Engineering student, currently in my tenth semester. I am expandi
 
 [![](https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mary22Martel)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Mary22Martel&theme=material-palenight)](https://github.com/Mary22Martel)
-![](https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&hide_title=true&theme=dark&count_private=true)
+
 
 </div>
 
