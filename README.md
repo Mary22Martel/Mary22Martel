@@ -8,7 +8,6 @@
 I am a Systems Engineering student, currently in my tenth semester. I am expanding my knowledge in both front-end and back-end development, always seeking new technologies to create innovative and efficient solutions. I enjoy learning and working on projects that challenge me to be productive and creative, with the goal of making a real impact.
 - 🌱 I’m currently learning ...
   - Nest.js
-  - Angular
   - React.js 
 ## My Skills Include
 
@@ -43,8 +42,10 @@ I am a Systems Engineering student, currently in my tenth semester. I am expandi
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mary22Martel)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/Mary22Martel)
+[![](https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mary22Martel)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=Mary22Martel&theme=material-palenight)](https://github.com/Mary22Martel)
+![](https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&hide_title=true&theme=dark&count_private=true)
+
 </div>
 
 
