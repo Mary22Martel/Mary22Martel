@@ -45,14 +45,7 @@ I am a Systems Engineering student, currently in my tenth semester. I am expandi
 [![](https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/Mary22Martel)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=Mary22Martel&theme=material-palenight)](https://github.com/Mary22Martel)
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mary22Martel&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mary22Martel&layout=compact&theme=dark&hide_border=false&custom_title=Frameworks%20que%20Uso" height="150" alt="frameworks graph" />
-</div>
-
-###
 
 </div>
 
